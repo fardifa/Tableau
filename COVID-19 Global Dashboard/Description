@@ -1,1 +1,20 @@
+This dashboard shows a global summary of COVID-19 cases inspired by the WHO Dashboard. The dataset has been added to the repository as well. 
+This dashboard shows three kinds of information:
 
+1. Spatial Visualization of Countries Most Affected by COVID-19 
+2. Week-by-week Tracking of Number of Confirmed Cases
+3. Week-by-week Tracking of Number of Deaths
+
+Clicking on each country in the map will show the above stats for its own country. 
+
+Challenges Faced and New Things Tried:
+
+1. Pinpointing what 3 things I want to show
+2. Adding text values showing number of confirmed cases and deaths
+3. Adding filter by select through Dashboard -> Actions 
+
+Resources that helped me:
+
+1. https://covid19.who.int/
+2. https://www.youtube.com/watch?v=sX5iupivFN8
+3. https://www.youtube.com/watch?v=xSQhwsye-us
